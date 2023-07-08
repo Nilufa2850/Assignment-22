@@ -27,4 +27,7 @@ int main ()
 
     printf("Sum is %d",sum) ;
 
+    free (p) ;
+    return 0 ;
+
 }
